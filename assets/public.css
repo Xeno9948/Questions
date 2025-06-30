@@ -3419,7 +3419,7 @@ review-filters .filters {
 .rating-stars [class^=icon-star] {
   display: block;
   font-size: 1.2em;
-  color: #ccc;
+  color: #FFB612;
   padding: 0 .1em;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 auto;
@@ -10988,3 +10988,5 @@ body.dark-mode .skeuo-glass {
   }
 }
 
+
+.rating-stars .fa-star, .rating-stars .fa-star-o, .rating-stars .fa-star-half-o, .rating-stars .fa-star-half-full, .rating-stars .fa-star-half, .rating-stars .fa-star-half-empty { color: #FFB612; }
